@@ -1,5 +1,5 @@
 <!--https://github.com/electrosoftllc/.github/raw/master/profile/icon.png-->
-# <img src="https://i.imgur.com/yKGOzDF.png" width="1%"/> ElectroSoft LLC
+# <img src="https://i.imgur.com/yKGOzDF.png" width="7%"/> ElectroSoft LLC
 - We create web, desktop, and mobile applications with high security.
 - We do projects in Java, PHP, NodeJS, and many other programming languages.
 <!--https://raw.githubusercontent.com/electrosoftllc/.github/master/profile/banner.png-->

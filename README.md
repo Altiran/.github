@@ -1,2 +1,2 @@
 # ElectroSoft
-ElectroSoft LLC Github page.
+ElectroSoft LLC GitHub page.

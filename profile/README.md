@@ -1,9 +1,7 @@
-<!--https://github.com/electrosoftllc/.github/raw/master/profile/icon.png-->
-# <img src="https://i.imgur.com/yKGOzDF.png" width="3%"/> ElectroSoft LLC
+# <img src="https://github.com/electrosoftllc/.github/raw/master/profile/icon.png" width="3%"/> ElectroSoft LLC
 - We create web, desktop, and mobile applications with high security.
 - We do projects in Java, PHP, NodeJS, and many other programming languages.
-<!--https://raw.githubusercontent.com/electrosoftllc/.github/master/profile/banner.png-->
-![ElectroSoft Banner](https://i.imgur.com/QTvVdEG.png)
+![ElectroSoft Banner](https://raw.githubusercontent.com/electrosoftllc/.github/master/profile/banner.png)
 
 ## 📱 How to contact us?
 - Join [our official Discord Server](https://discord.gg/jsSGFeR).

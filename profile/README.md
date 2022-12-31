@@ -5,7 +5,7 @@
 
 ## 📱 How to contact us?
 - Join [our official Discord Server](https://discord.gg/jsSGFeR).
-- Email address for communication: [aaravslab.help@gmail.com](mailto:aaravslab.help@gmail.com).
+- Email address for communication: [ab20zipyt@electrosoft.in](mailto:ab20zipyt@electrosoft.in).
 
 ## ▶️ Latest YouTube Videos
 <!-- YouTube:START -->

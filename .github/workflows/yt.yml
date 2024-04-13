@@ -15,9 +15,11 @@ jobs:
             working-directory: ./profile
         steps:
             - name: Checkout
+              run: echo "Checking out..."
               uses: actions/checkout@v4
               working-directory: ${{ env.working-directory }}
             - name: Get YT Videos
+              run: echo "Getting YT Videos..."
               uses: gautamkrishnar/blog-post-workflow@v1
               working-directory: ${{ env.working-directory }}
               with:

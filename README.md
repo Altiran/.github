@@ -1,2 +1,2 @@
 # ElectroSoft
-ElectroSoft LLC GitHub page.
+Profile repository for ElectroSoft on GitHub!

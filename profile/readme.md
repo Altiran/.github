@@ -13,7 +13,7 @@
 ## ▶️ Latest YouTube Videos
 <div align="center">
 
-    [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@electrosoftllc?sub_confirmation=1)
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@electrosoftllc?sub_confirmation=1)
 
 </div>
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5B4tB-_cHoY"><img width="140px" src="https://i.ytimg.com/vi/5B4tB-_cHoY/mqdefault.jpg"></a></td>

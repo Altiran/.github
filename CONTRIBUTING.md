@@ -2,8 +2,8 @@
 
 ## General workflow
 
-1. (External contributors only) Create a fork of the repository
-2. Pull any changes from `main` to make sure you're up-to-date
+1. (External contributors only) Create a fork of the repository.
+2. Pull any changes from `main` to make sure you're up-to-date.
 3. Create a branch from `main`.
     * Give your branch a name that describes your change (e.g., add-cool-feature).
     * Focus on one change per branch.

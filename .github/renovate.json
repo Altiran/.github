@@ -10,5 +10,16 @@
         ":pinVersions",
         ":label(dependencies)"
     ],
+    "packageRules": [
+        {
+            "description": "Automate workflow dependency updates",
+            "matchPaths": [
+                "**/.github/workflows/**"
+            ],
+            "matchManagers": [
+                "github-actions"
+            ]
+        }
+    ],
     "automerge": true
 }

@@ -1,2 +1,2 @@
-# Altiran GitHub Profile Configuration
-This repository contains configuration files for Altiran's official GitHub profile.
+# Altiran on GitHub
+Community health files for the Altiran organization on GitHub.

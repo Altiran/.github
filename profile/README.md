@@ -6,7 +6,7 @@
 - We respect the dignity of our customers and provide them with the best service.
 
 ### 📱 How to contact us?
-- Visit our [official website](https://www.altiran.com).
+- Visit our [official website](https://altiran.com).
 - Email us at [contact@altiran.com](mailto:contact@altiran.com).
 - Join [our official Discord Server](https://discord.gg/jsSGFeR).
 - Send us a message on any of our social media accounts.
@@ -27,3 +27,4 @@
 <td><a href="https://www.youtube.com/watch?v=7acrwFBJwFk">How to get a Rainbow Sheep in Minecraft - Aarav&#39;s Lab</a><br/>Jul 25, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
 
+<!-- MADE WITH ❤️ BY ALTIRAN -->

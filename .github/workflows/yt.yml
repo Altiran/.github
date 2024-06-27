@@ -12,16 +12,16 @@ jobs:
         name: Update latest uploads
         runs-on: ubuntu-latest
         steps:
-            - name: Checkout
-              uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4
-            - name: Get YT Videos
-              uses: gautamkrishnar/blog-post-workflow@d27ccd7d66af00cbd2178c31d7c74de04cc2850b # v1
-              with:
-                  readme_path: "./profile/README.md"
-                  comment_tag_name: "YOUTUBE"
-                  feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCQQrKnfeh1M8d6fZ7dSmxRQ"
-                  custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
-                  date_format: "mmm d, yyyy"
-                  template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
-                  committer_email: "86971097+Ab20zip@users.noreply.github.com"
-                  commit_message: "Updated YouTube videos!"
+            -   name: Checkout
+                uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4
+            -   name: Get YT Videos
+                uses: gautamkrishnar/blog-post-workflow@d27ccd7d66af00cbd2178c31d7c74de04cc2850b # v1
+                with:
+                    readme_path: "./profile/README.md"
+                    comment_tag_name: "YOUTUBE"
+                    feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCQQrKnfeh1M8d6fZ7dSmxRQ"
+                    custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+                    date_format: "mmm d, yyyy"
+                    template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+                    committer_email: "173940592+Neevoo45@users.noreply.github.com"
+                    commit_message: "Updated YouTube videos!"

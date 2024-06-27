@@ -1,21 +1,20 @@
-# <img src="https://github.com/electrosoftllc/.github/raw/master/profile/icon.png" width="3%"/> ElectroSoft LLC
+# Altiran
+
 - We create web, desktop, and mobile applications with high security.
 - We do projects in Java, PHP, Node.js, and many other programming languages.
 - We always use the latest technologies and frameworks to keep our projects up to date.
 - We respect the dignity of our customers and provide them with the best service.
-<br><br>
-![ElectroSoft Banner](https://raw.githubusercontent.com/electrosoftllc/.github/master/profile/banner.png)
 
-## 📱 How to contact us?
+### 📱 How to contact us?
+- Visit our [official website](https://www.altiran.com).
+- Email us at [contact@altiran.com](mailto:contact@altiran.com).
 - Join [our official Discord Server](https://discord.gg/jsSGFeR).
-- Email address for communication: [ab20zipyt@electrosoft.in](mailto:ab20zipyt@electrosoft.in).
+- Send us a message on any of our social media accounts.
 
-## ▶️ Latest YouTube Videos
-<div align="center">
+### ▶️ Latest YouTube Videos
 
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@electrosoftllc?sub_confirmation=1)
+[<img height="70" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/@electrosoftllc?sub_confirmation=1)
 
-</div>
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5B4tB-_cHoY"><img width="140px" src="https://i.ytimg.com/vi/5B4tB-_cHoY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5B4tB-_cHoY">How to make a Li-Fi device at Home | Easy and Simple Demonstration for Beginners - Aarav&#39;s Lab</a><br/>Dec 9, 2021</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=LEUaY03ANk4"><img width="140px" src="https://i.ytimg.com/vi/LEUaY03ANk4/mqdefault.jpg"></a></td>
@@ -27,3 +26,4 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=7acrwFBJwFk"><img width="140px" src="https://i.ytimg.com/vi/7acrwFBJwFk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7acrwFBJwFk">How to get a Rainbow Sheep in Minecraft - Aarav&#39;s Lab</a><br/>Jul 25, 2021</td></tr></table>
 <!-- YOUTUBE:END -->
+

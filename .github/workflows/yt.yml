@@ -1,8 +1,8 @@
 name: YT
 on:
-    schedule:
-        - cron: "*/10 * * * *"
     workflow_dispatch:
+    schedule:
+        - cron: "*/15 * * * *"
 
 permissions:
     contents: write

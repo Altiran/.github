@@ -15,7 +15,7 @@ jobs:
             -   name: Checkout
                 uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6
             -   name: Get YT Videos
-                uses: gautamkrishnar/blog-post-workflow@eba05ad46e6bac02165b77289978caf47699a41f # v1
+                uses: gautamkrishnar/blog-post-workflow@6a6e64abd1f651445da8e59611d0ca0110979aa5 # v1
                 with:
                     readme_path: "./profile/README.md"
                     comment_tag_name: "YOUTUBE"
